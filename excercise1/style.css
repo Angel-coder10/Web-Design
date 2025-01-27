@@ -1,0 +1,46 @@
+body {
+  background-color: #D9D8D2;
+  color:#9BA7BF;
+  font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 4%;
+  margin-top: 5%;
+  color: #40282C;
+  text-align: center;
+}
+
+
+.container{
+  display: flex;
+  flex-direction:row;
+}
+
+section{
+  background-color:#40282C;
+  padding:2%;
+  margin: 2%;
+  margin-left: 0%;
+  margin-right: 0%;
+  border-radius: 15px;
+}
+
+img{
+float: right;
+width: 50%;
+height: 50%;
+max-width: 1000px;
+padding-left: 1%;
+padding-top: 6%;
+}
+
+footer{
+  display: flex;
+  justify-content: space-around;
+margin-bottom: 4%;
+color:#40282C;
+}
+
+
